@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1704177497898,
+      "tag": "0000_slim_gertrude_yorkes",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704184984469,
+      "tag": "0001_sleepy_proteus",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1704191903179,
+      "tag": "0002_flowery_wolfsbane",
+      "breakpoints": true
+    }
+  ]
+}
